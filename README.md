@@ -1,0 +1,2 @@
+# pikadex
+read cpde
